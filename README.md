@@ -1,1 +1,2 @@
-# hackerrank-assignments
+# About this repository
+This repository has all of my assignments & projects that i will accomplish with [HackerRank Campus Club, FCDS](https://www.linkedin.com/company/hackerrank-campus-club-fcds/). It is meant to be a reminder for me that hard work and consistency pays off eventually.
