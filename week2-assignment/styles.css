@@ -6,9 +6,19 @@ h1 {
 }
 
 /* Q2 */
-#q2 {
+p {
     font-family: Arial, sans-serif;
     font-size: 16px;
     color: #333;
     line-height: 1.6;
+}
+
+/* Q3 */
+.container {
+    color: #e74c3c;
+    font-style: italic;
+}
+
+#q2 {
+    color: inherit;
 }
