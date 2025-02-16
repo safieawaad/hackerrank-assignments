@@ -30,3 +30,10 @@ p {
     font-size: 18px;
     color: #8e44ad;
 }
+
+/* Q5 */
+#highlight {
+    background-color: yellow;
+    padding: 5px;
+    border-radius: 5px;
+}
