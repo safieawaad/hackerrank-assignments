@@ -72,3 +72,9 @@ button {
 button:hover {
     background-color: #2980b9;
 }
+
+/* Q10 */
+#name {
+    border: 1px solid #ccc;
+    padding: 5px;
+}
