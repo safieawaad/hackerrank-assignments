@@ -104,3 +104,13 @@ h2 {
     color: #34495e;
     text-shadow: 2px 2px 5px #7f8c8d;
 }
+
+/* Q14 */
+.shadow-box {
+    width: 200px;
+    height: 100px;
+    background-color: #ecf0f1;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);
+    text-align: center;
+    line-height: 100px;
+}
