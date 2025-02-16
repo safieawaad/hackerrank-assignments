@@ -22,3 +22,11 @@ p {
 #q2 {
     color: inherit;
 }
+
+/* Q4 */
+.special-text {
+    font-weight: bold;
+    text-decoration: underline;
+    font-size: 18px;
+    color: #8e44ad;
+}
