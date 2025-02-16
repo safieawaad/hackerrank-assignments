@@ -43,3 +43,14 @@ div>p {
     font-weight: bold;
     color: #27ae60;
 }
+
+/* Q7 */
+a {
+    text-decoration: none;
+    color: #2980b9;
+}
+
+a:hover {
+    color: #c0392b;
+    text-decoration: underline;
+}
