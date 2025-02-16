@@ -61,3 +61,14 @@ ul>li {
     margin-left: 20px;
     font-size: 16px;
 }
+
+/* Q9 */
+button {
+    background-color: #3498db;
+    color: white;
+    padding: 10px 20px;
+}
+
+button:hover {
+    background-color: #2980b9;
+}
