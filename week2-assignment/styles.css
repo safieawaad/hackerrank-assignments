@@ -87,3 +87,13 @@ button:hover {
     text-align: center;
     line-height: 200px;
 }
+
+/* Q12 */
+.rounded-box {
+    width: 150px;
+    height: 150px;
+    background-color: #ff5733;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 150px;
+}
